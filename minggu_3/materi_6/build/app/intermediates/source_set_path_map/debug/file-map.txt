@@ -1,0 +1,12 @@
+com.example.minggu_6.app-core-1.6.0-0 C:\Users\kholi\.gradle\caches\8.8\transforms\022b5910392905092b23e00f83b97093\transformed\core-1.6.0\res
+com.example.minggu_6.app-jetified-window-1.0.0-beta04-1 C:\Users\kholi\.gradle\caches\8.8\transforms\0d892c283a2830cac3d2ec541ba10082\transformed\jetified-window-1.0.0-beta04\res
+com.example.minggu_6.app-jetified-annotation-experimental-1.1.0-2 C:\Users\kholi\.gradle\caches\8.8\transforms\11e961185e6fbe905224227e8e9594d9\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.minggu_6.app-jetified-window-java-1.0.0-beta04-3 C:\Users\kholi\.gradle\caches\8.8\transforms\ee48f2f2f27d349a7f90e1432d3712cb\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.minggu_6.app-debug-4 D:\flutter_project\Mobile_Web_Service_Praktik\minggu_6\android\app\src\debug\res
+com.example.minggu_6.app-main-5 D:\flutter_project\Mobile_Web_Service_Praktik\minggu_6\android\app\src\main\res
+com.example.minggu_6.app-pngs-6 D:\flutter_project\Mobile_Web_Service_Praktik\minggu_6\build\app\generated\res\pngs\debug
+com.example.minggu_6.app-resValues-7 D:\flutter_project\Mobile_Web_Service_Praktik\minggu_6\build\app\generated\res\resValues\debug
+com.example.minggu_6.app-rs-8 D:\flutter_project\Mobile_Web_Service_Praktik\minggu_6\build\app\generated\res\rs\debug
+com.example.minggu_6.app-mergeDebugResources-9 D:\flutter_project\Mobile_Web_Service_Praktik\minggu_6\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.minggu_6.app-mergeDebugResources-10 D:\flutter_project\Mobile_Web_Service_Praktik\minggu_6\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.minggu_6.app-merged_res-11 D:\flutter_project\Mobile_Web_Service_Praktik\minggu_6\build\app\intermediates\merged_res\debug
